@@ -24,7 +24,7 @@ To delete a folder (useful if you come across issues and need to try again from 
 
 `rm -r [folder name]`
 
-To check your present working directory (where you are currently at in the file system):
+To list files and folders in your current working directory (where you are currently at in the file system):
 
 `ls`
 
